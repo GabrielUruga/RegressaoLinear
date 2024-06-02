@@ -1,7 +1,7 @@
 <h1 align="center"> :game_die: Análise Exploratória e Modelagem Preditiva </h1>
 
 <p align="justify">
-  Neste repositório contém o 2° Projeto Prático da trilha de Dados do Programa Desenvolve, uma parceria entre Grupo Boticário e Alura. O projeto consiste em elaborar uma fazer uma Análise Exploratória e a Modelagem Preditiva utilizando Regressão Linear para prever os Preços de Aluguel de Imóveis em São Paulo.
+  Neste repositório contém o 2° Projeto Prático da trilha de Dados do Programa Desenvolve, uma parceria entre Grupo Boticário e Alura. O projeto consiste em elaborar uma Análise Exploratória e a Modelagem Preditiva utilizando Regressão Linear para prever os Preços de Aluguel de Imóveis em São Paulo.
 <br>
 
 <h2 align="left"> :clipboard: Etapas do Projeto </h2>
