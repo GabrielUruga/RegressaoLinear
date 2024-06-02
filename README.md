@@ -21,7 +21,7 @@
 As ferramentas utilizadas para a elaboração do projeto estão listadas abaixo, caso queira baixar o notebook, será necessário o download de ambas as ferramentas citadas.
 
   
-  Não há a necessidade de baixar o repositório para acessar o projeto, basta clicar no notebook "Projeto Prático 2.ipynb"
+  Não há a necessidade de baixar o repositório para acessar o projeto, basta clicar <a href=https://code.visualstudio.com/> aqui </a>
   
   
   <li> <b> Anaconda: <a href= https://www.anaconda.com/download> Baixar aplicativo </a> </b></li>
