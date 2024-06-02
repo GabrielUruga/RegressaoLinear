@@ -18,9 +18,9 @@
 <h2 align="left"> :wrench: Ferramentas </h2>
 
 <p align="justify"> 
-As ferramentas utilizadas para a elaboração do projeto estão listadas abaixo, mas não há a necessidade de baixar o repositório para acessar o projeto, basta clicar <a href=https://code.visualstudio.com/> aqui </a> ou baixar o <a href=https://code.visualstudio.com/> Visual Studio Code </a> e abrir o arquivos nele.
+As ferramentas utilizadas para a elaboração do projeto estão listadas abaixo, mas não há a necessidade de baixar o repositório para acessar o projeto, basta clicar <a href=https://github.com/GabrielUruga/RegressaoLinear/blob/main/Projeto%20Pr%C3%A1tico%202.ipynb> aqui </a> ou baixar o <a href=https://code.visualstudio.com/> Visual Studio Code </a> e abrir o arquivos nele.
   
   
-  <li> <b> Anaconda: <a href= https://www.anaconda.com/download> Abrir site </a> </b></li>
-  <li> <b> Python:  <a href=https://www.python.org/> Abrir site </a> </b> </li>
+  <li> <b> Anaconda: <a href= https://www.anaconda.com/download> Abrir </a> </b></li>
+  <li> <b> Python:  <a href=https://www.python.org/> Abrir </a> </b> </li>
 </p>
