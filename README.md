@@ -17,7 +17,9 @@
 
 <h2 align="left"> :wrench: Apresentação </h2>
 
-Para acessar a Apresentação Online sobre as Perguntas de Negócio, clique <a href= https://docs.google.com/presentation/d/1ub0rFwG8Efp6U_Th1dhUFSMgbdwb4YcWtsV1BLGdTQA/edit?usp=sharing> aqui </a> 
+<p align="justify">
+Para acessar a Apresentação Online sobre as Perguntas de Negócio, clique <a href= https://docs.google.com/presentation/d/1ub0rFwG8Efp6U_Th1dhUFSMgbdwb4YcWtsV1BLGdTQA/edit?usp=sharing>aqui </a> 
+</p>
 
 <br>
 
