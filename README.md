@@ -6,8 +6,8 @@
 
 <h2 align="left"> :clipboard: Etapas do Projeto </h2>
 
-<li> <b> Importação e Limpeza dos Dados </b> </li>
 <li> <b> Definição das Perguntas de Negócio </b> </li>
+<li> <b> Importação e Limpeza dos Dados </b> </li>
 <li> <b> Análise Exploratória</b> </li>
 <li> <b> Modelagem Preditiva</b> </li>
 <li> <b> Avaliação da Modelagem Preditiva</b> </li>
